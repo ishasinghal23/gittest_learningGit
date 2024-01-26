@@ -1,2 +1,3 @@
 ## This is Git tutorials
-Practicing Git commands using this repo. Course by Ineuron. Changing in develoepr branch.
+Practicing Git commands using this repo. amazing Course by Ineuron. Changing in develoepr branch.
+These changes are by dev2 branch
